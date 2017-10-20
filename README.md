@@ -1,5 +1,6 @@
-# Memoria-din-mica
+Memoria-dinamica
 Programa de memoria dinámica
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
